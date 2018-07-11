@@ -1,0 +1,11 @@
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\bin\Debug\netcoreapp2.1\Named_parameters.deps.json
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\bin\Debug\netcoreapp2.1\Named_parameters.runtimeconfig.json
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\bin\Debug\netcoreapp2.1\Named_parameters.runtimeconfig.dev.json
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\bin\Debug\netcoreapp2.1\Named_parameters.dll
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\bin\Debug\netcoreapp2.1\Named_parameters.pdb
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\obj\Debug\netcoreapp2.1\Named_parameters.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\obj\Debug\netcoreapp2.1\Named_parameters.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\obj\Debug\netcoreapp2.1\Named_parameters.AssemblyInfoInputs.cache
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\obj\Debug\netcoreapp2.1\Named_parameters.AssemblyInfo.cs
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\obj\Debug\netcoreapp2.1\Named_parameters.dll
+C:\Users\Sinan\source\repos\rosetta_code\Named_parameters\Named_parameters\Named_parameters\obj\Debug\netcoreapp2.1\Named_parameters.pdb
