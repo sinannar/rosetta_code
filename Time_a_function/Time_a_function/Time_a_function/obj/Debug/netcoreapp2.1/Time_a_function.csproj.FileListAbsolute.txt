@@ -1,0 +1,11 @@
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\bin\Debug\netcoreapp2.1\Time_a_function.deps.json
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\bin\Debug\netcoreapp2.1\Time_a_function.runtimeconfig.json
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\bin\Debug\netcoreapp2.1\Time_a_function.runtimeconfig.dev.json
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\bin\Debug\netcoreapp2.1\Time_a_function.dll
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\bin\Debug\netcoreapp2.1\Time_a_function.pdb
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\obj\Debug\netcoreapp2.1\Time_a_function.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\obj\Debug\netcoreapp2.1\Time_a_function.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\obj\Debug\netcoreapp2.1\Time_a_function.AssemblyInfoInputs.cache
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\obj\Debug\netcoreapp2.1\Time_a_function.AssemblyInfo.cs
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\obj\Debug\netcoreapp2.1\Time_a_function.dll
+C:\Users\Sinan\source\repos\rosetta_code\Time_a_function\Time_a_function\Time_a_function\obj\Debug\netcoreapp2.1\Time_a_function.pdb
